@@ -12,10 +12,10 @@ interface Project {
 
 const projects: Project[] = [
   {
-    title: 'Store Rating Dashboard',
+    title: 'Rate It App',
     description: 'An interactive dashboard for rating and reviewing stores with role based authentication for admin, owner and user.',
     tags: ['React', 'Node.js', 'Express', 'PostgreSQL', 'Bootstrap'],
-    link: 'https://store-rating-dashboard-frontend.vercel.app/'
+    link: 'https://rate-it-app.vercel.app/'
   },
   {
     title: 'Django Blog & CMS',
