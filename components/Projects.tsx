@@ -27,7 +27,7 @@ const projects: Project[] = [
     title: 'Ramsia E-commerce Platform',
     description: 'Developed a full-stack MERN e-commerce platform featuring product management, admin dashboard, user authentication, and Stripe payment integration.',
     tags: ['React.js', 'NOde.js', 'Express.js', 'Redux', 'Tailwind Css', 'Stripe API', 'JWT' ],
-    link: ''
+    link: 'https://ramsia.run.place/'
   },
 ];
 
