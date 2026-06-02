@@ -14,14 +14,20 @@ const projects: Project[] = [
   {
     title: 'Rate It App',
     description: 'An interactive dashboard for rating and reviewing stores with role based authentication for admin, owner and user.',
-    tags: ['React', 'Node.js', 'Express', 'PostgreSQL', 'Bootstrap'],
-    link: 'https://rate-it-app.vercel.app/'
+    tags: ['React.js', 'Node.js', 'Express', 'PostgreSQL', 'Bootstrap'],
+    link: 'https://rate-it-app-frontend.vercel.app/'
   },
   {
     title: 'Django Blog & CMS',
     description: 'A blog and content management system with role based authentication for Superuser, Editor and User.',
     tags: ['Python', 'Django', 'MongoDB', 'Bootstrap'],
     link: 'http://akash39.pythonanywhere.com/'
+  },
+  {
+    title: 'Ramsia E-commerce Platform',
+    description: 'Developed a full-stack MERN e-commerce platform featuring product management, admin dashboard, user authentication, and Stripe payment integration.',
+    tags: ['React.js', 'NOde.js', 'Express.js', 'Redux', 'Tailwind Css', 'Stripe API', 'JWT' ],
+    link: ''
   },
 ];
 
