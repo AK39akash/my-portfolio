@@ -15,7 +15,7 @@ const projects: Project[] = [
     title: 'Rate It App',
     description: 'An interactive dashboard for rating and reviewing stores with role based authentication for admin, owner and user.',
     tags: ['React.js', 'Node.js', 'Express', 'PostgreSQL', 'Bootstrap'],
-    link: 'https://rate-it-app-frontend.vercel.app/'
+    link: 'https://rate-it-app.vercel.app/'
   },
   {
     title: 'Django Blog & CMS',
@@ -27,7 +27,7 @@ const projects: Project[] = [
     title: 'Ramsia E-commerce Platform',
     description: 'Developed a full-stack MERN e-commerce platform featuring product management, admin dashboard, user authentication, and Stripe payment integration.',
     tags: ['React.js', 'NOde.js', 'Express.js', 'Redux', 'Tailwind Css', 'Stripe API', 'JWT' ],
-    link: 'https://ramsia.run.place/'
+    link: 'https://ramsia-ecommerce.vercel.app/'
   },
 ];
 
